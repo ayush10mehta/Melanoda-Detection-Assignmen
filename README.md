@@ -24,8 +24,8 @@
 3. For Model 3 - The training accuracy and validation accuracy both rise with the final model (model3), problem of model overfitting is resolved and class rebalancing helps in enhancement and the greatest possible training and validation accuracy.
 4. For Model 4 - Used Augmentor Library and the augmentation technique but haven't got good accuray using Model 4.
 5. Also tried 2 more models
-### 1. Used Model 1 with Augmentor and got good accuracy.
-### 2. Used Model 3 with 45 epoch and got accuracy = 90% and validation accuracy = 84%.
+1. Used Model 1 with Augmentor and got good accuracy.
+2. Used Model 3 with 45 epoch and got accuracy = 90% and validation accuracy = 84%.
  
 
 ## Technologies Used
