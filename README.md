@@ -48,9 +48,9 @@
 2. Seaborn: https://seaborn.pydata.org
 3. Matplotlib: https://matplotlib.org
 - We have taken the references of data modeling from some of the python libraries.
-1. scikit-learn: https://scikit-learn.org/stable/
-2. category-encoders: https://contrib.scikit-learn.org/category_encoders/
-3. statsmodels: https://www.statsmodels.org/stable/index.html 
+1. Keras - https://keras.io
+2. Tensorflow - https://www.tensorflow.org/?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jd2UyztpB8oWAtfI-SHs2gOHEIUWP3JyQ43ueTIXKc-_40NVftEdfAaAnxhEALw_wcB
+3. Augmentor - https://augmentor.readthedocs.io/en/stable/
 
 
 ## Contact
