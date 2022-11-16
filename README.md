@@ -12,7 +12,7 @@
 - Create a CNN-based model that accurately detects melanoma. If melanoma is not found in its early stages, it can be fatal. It is responsible for 75% of skin cancer fatalities. A system that can analyse photos and notify dermatologists of the existence of melanoma might potentially eliminate the need for a lot of manual diagnosis work.
 
 ## Flow Diagram
-![Flow chart](https://github.com/ayush10mehta/Advance-Linear-Regression-Assignment/blob/main/Flow.png?raw=true)
+![Flow chart](https://github.com/ayush10mehta/Melanoda-Detection-Assignmen/blob/main/CNN.drawio.png?raw=true)
 
 ### About the Data
 - The dataset, which was created by the International Skin Imaging Collaboration, has 2357 photos of cancers, both malignant and benign (ISIC). With the exception of melanomas and moles, whose photos have a minor predominance, all images were sorted according to the categorization determined with ISIC, and all subgroups were divided into the same number of images.
